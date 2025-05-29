@@ -1,5 +1,15 @@
 # 🧮 Robux Tax Calculator
 
+> **🌐 Live at: [rbxadds.com](https://rbxadds.com)**
+
+A fast, accurate, and privacy-focused calculator for Roblox marketplace earnings. Calculate your net earnings after the 30% marketplace tax or determine the required selling price to achieve your desired earnings.
+
+[![Production Ready](https://img.shields.io/badge/status-production%20ready-brightgreen)]()
+[![Multi-Language](https://img.shields.io/badge/languages-10%20supported-blue)]()
+[![Bundle Size](https://img.shields.io/badge/bundle%20size-172B-success)]()
+[![Performance](https://img.shields.io/badge/performance-optimized-orange)]()
+[![Domain](https://img.shields.io/badge/domain-rbxadds.com-blue)](https://rbxadds.com)ux Tax Calculator
+
 A fast, accurate, and privacy-focused calculator for Roblox marketplace earnings. Calculate your net earnings after the 30% marketplace tax or determine the required selling price to achieve your desired earnings.
 
 [![Production Ready](https://img.shields.io/badge/status-production%20ready-brightgreen)]()
@@ -36,7 +46,7 @@ A fast, accurate, and privacy-focused calculator for Roblox marketplace earnings
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/reshtei/robux-tax-calculator.git
 cd robux-tax-calculator
 
 # Install dependencies
