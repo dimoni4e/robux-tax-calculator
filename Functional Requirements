@@ -1,0 +1,41 @@
+# Robux Tax Calculator — MVP Functional Requirements
+
+## 1 . Core Logic
+- **After-Tax**  
+  - Input: selling price (Robux).  
+  - Output: net Robux = price × 0 . 7.
+- **Pre-Tax**  
+  - Input: desired net Robux.  
+  - Output: price ≈ net ÷ 0 . 7.
+
+## 2 . UI
+- Single, clean page.  
+- Two numeric fields with clear labels.  
+- Live results while typing.  
+- Both calc blocks always visible.  
+
+## 3 . Responsiveness
+- Flexbox/Grid layout.  
+- Works on desktop and mobile.  
+
+## 4 . Privacy
+- No accounts.  
+- No data stored.  
+
+## 5 . Tech Stack
+- Next.js + React.  
+- useState for state.  
+- Numeric-only input; allow “.”.  
+- Show up to two decimals.  
+
+## 6 . Non-Functional
+- Fast load (SSR).  
+- Accessible labels.  
+- Bundle < 50 kB JS.  
+
+## 7 . Out of Scope (v1)
+- History log.  
+- Batch items.  
+- Custom tax rate.  
+- Tooltips/help text.  
+- Copy-to-clipboard.  

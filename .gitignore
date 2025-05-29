@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# History and IDE files
+.history/
+.vscode/
+.idea/
+
+# Backup files
+*.backup
+*.bak
+*_backup.*
