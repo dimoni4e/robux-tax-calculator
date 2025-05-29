@@ -161,7 +161,10 @@ export default function Home() {
         </header>
 
         {/* Calculator Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8">
+        <div
+          id="calculator-section"
+          className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8"
+        >
           {/* After-Tax Calculator */}
           <div className="bg-white rounded-xl shadow-lg p-6 sm:p-8 border border-gray-200">
             <div className="mb-6">
